@@ -15,7 +15,7 @@ Education
   - 2015-2019 - postgraduate studies in Human and Animal Physiology, Yaroslavl State University
 * And now: 
   - sinse 04.2023 - started to learn Java with Yandex Course
-  - 01.2024 - started to learn C# with Stepik courses
+  - 01.2024 - started to learn C with Stepik courses
   - 01.2024 - started to learn at School_21
   - not all...
 
