@@ -19,7 +19,7 @@ Education
   - 01.2024 - started to learn at School_21
   - not all...
 
-Expirience
+Experience
 ----------
 * 2015-2023 - Scientist and Teacher in Yaroslavl State University, Yaroslavl Medical College and several schools
    - AuthorID: [903688](https://www.elibrary.ru/author_profile.asp?authorid=903688)
