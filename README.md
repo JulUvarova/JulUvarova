@@ -4,7 +4,7 @@ I'm Julia. Coding saved my nervous system and maybe liberty in spring of 2022.
 Skills
 ----------
 * a bit of Java
-* a bit of C#
+* a bit of C
 * a bit of SQL
 
 Education
