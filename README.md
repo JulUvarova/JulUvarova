@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Julia. Coding saved my nervous system and maybe liberty in spring of 2022.
+I'm Julia. Coding saved my nervous system and maybe liberty in 2023.
 
 Skills
 ----------
