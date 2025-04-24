@@ -47,7 +47,7 @@ at Practicum by Yandex
 ### 🐾 *Pet projects*
 |      Project     |  Year |           Description           |      Stack     |
 |------------------|-------|---------------------------------|----------------|
-| [Calc3D_by_Risen](https://git.corp.s21party.ru/risen/Calc3D_by_Risen/)👥 | 2024 | Utility for calculating the cost of printing 3D models | C++, Qt |
+| [Calc3D_by_Risen](https://calc3d.ru/)👥 | 2024 | Utility for calculating the cost of printing 3D models | C++, Qt |
 
 ### 🎪 *Events*
 |      Event      |  Year |       Repository      |           Description          |
