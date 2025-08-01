@@ -28,7 +28,6 @@ I'm Julia. Coding has been saving my nervous system since 2023.
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-Учебное веб-приложение для игры в крестики-нолики с минимакс алгоритмом или пользователем, поддержкой JWT авторизации, историей игр и таблицей лидеров.
 ## 📚 Education
 🧬 Past life: Bioscience era
   - 2008-2013 - basic education in Biology, Yaroslavl State University
